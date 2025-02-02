@@ -1,4 +1,3 @@
-```markdown
 # Small Basket - Flutter Grocery App (UI Only)
 
 Small Basket is a grocery app built using Flutter. This project contains only the UI part and does not include backend implementation.
@@ -28,20 +27,3 @@ flutter pub get
 
 # Run the app
 flutter run
-```
-
-## Dependencies
-- `flutter_carousel_slider` (For the home screen carousel)
-- `google_fonts` (For custom fonts)
-- `flutter_snackbar` (For notifications)
-
-## Contributing
-Feel free to contribute by forking the repository and creating pull requests.
-
-## License
-This project is licensed under the MIT License.
-
----
-Developed by [Vuppala Yateesh](https://github.com/yateesh43)
-```
-

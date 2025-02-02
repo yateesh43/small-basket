@@ -1,16 +1,47 @@
-# myapp
+```markdown
+# Small Basket - Flutter Grocery App (UI Only)
 
-A new Flutter project.
+Small Basket is a grocery app built using Flutter. This project contains only the UI part and does not include backend implementation.
 
-## Getting Started
+## Features
+- **Home Screen**: Includes a carousel slider and a section for best-selling items.
+- **Login Page**: User authentication UI.
+- **Profile Page**: Displays user information.
+- **Categories Page**: Lists different grocery categories.
+- **Search Page**: Allows users to search for products.
+- **Cart Page**: Displays selected items for checkout.
+- **Custom Drawer**: A navigation drawer for easy access to different sections.
 
-This project is a starting point for a Flutter application.
+## Screenshots
+(Add screenshots here to showcase the UI)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
+```sh
+# Clone the repository
+git clone https://github.com/yateesh43/small-basket-flutter-app-.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Navigate to the project directory
+cd small-basket-flutter-app-
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
+```
+
+## Dependencies
+- `flutter_carousel_slider` (For the home screen carousel)
+- `google_fonts` (For custom fonts)
+- `flutter_snackbar` (For notifications)
+
+## Contributing
+Feel free to contribute by forking the repository and creating pull requests.
+
+## License
+This project is licensed under the MIT License.
+
+---
+Developed by [Vuppala Yateesh](https://github.com/yateesh43)
+```
+
